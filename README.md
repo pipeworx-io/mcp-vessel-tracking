@@ -2,6 +2,8 @@
 
 Live worldwide ship positions from AIS radio broadcasts. Platform key (aisstream.io), BYO accepted.
 
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1394+ live data sources.
+
 ## Tools
 
 - `live_ships_in_area(...)` — vessels broadcasting right now in a bounding box or around a point, with position, speed, course, navigational status, type, destination and IMO, plus a breakdown by vessel type.
@@ -75,7 +77,7 @@ The gateway picks the right tool and fills the arguments automatically.
 
 ## More
 
-- [All tools and guides](https://github.com/pipeworx-io/examples)
+- [Docs and guides](https://pipeworx.io/docs)
 - [pipeworx.io](https://pipeworx.io)
 
 ## License
