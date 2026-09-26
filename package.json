@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-vessel-tracking",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Vessel Tracking — live worldwide ship positions from AIS.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-a60510f61c92cfd2add4359d30090de4f030e71248d6b08d1c0c6c477bf2dd81",
-    "sourceCommit": "b0fb3c31386cf0256dcf1e2f1b3440435a87ec35"
+    "sourceHash": "v1-76868af33c2d519fc7b12bbb48b4f96abdf2550db6b311b0be7e5317988d5af4",
+    "sourceCommit": "2cb50b368da3267446f2b6f6a3ddbd3d0eed3d73"
   }
 }
